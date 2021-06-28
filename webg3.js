@@ -23,7 +23,7 @@ $(document).ready(function(){
                         if(result.isConfirmed){
                             Swal.fire({
                               icon: 'question',
-                              title: 'makasih yaa sayangkuu sdh setia sama kk, sdh sabar sama, kk sdh mau nerima kk apa adanya'
+                              title: 'makasih yaa sayangkuu sdh setia sama kk, sdh sabar sama kk, sdh mau nerima kk apa adanya'
                             }).then((result) =>{
                                 //jawab jujur
                                 if(result.isConfirmed){
@@ -41,7 +41,7 @@ $(document).ready(function(){
                                                 if(result.isConfirmed){
                                                     Swal.fire({
                                                       icon: 'question',
-                                                      title: 'kk janji akan selalu bikin sayangkuu seneng kk juga janji jadi ayah yang baik buat anak kita zayn sama zeline.'
+                                                      title: 'kk janji akan selalu bikin sayangkuu seneng, kk juga janji jadi ayah yang baik buat anak kita zayn sama zeline.'
                                                     }).then((result) =>{
                                                         //jawab jujur
                                                         if(result.isConfirmed){
@@ -53,7 +53,7 @@ $(document).ready(function(){
                                                                 if(result.isConfirmed){
                                                                     Swal.fire({
                                                                       icon: 'question',
-                                                                      title: 'di hari yang spesial ini semoga sayaangkuu sehat teruuus semoga kecapai semua impiannya keterima di ugm, selalu jadi kebanggaan keluarga sayangkuu dan kita, selalu kuat menghadapi semua ujian,'
+                                                                      title: 'di hari yang spesial ini semoga sayaangkuu sehat teruuus semoga kecapai semua impiannya, keterima di ugm, selalu jadi kebanggaan keluarga sayangkuu dan kita, selalu kuat menghadapi semua ujian,'
                                                                     }).then((result) =>{
                                                                         //jawab jujur
                                                                         if(result.isConfirmed){
