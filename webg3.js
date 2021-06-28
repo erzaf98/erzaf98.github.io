@@ -23,7 +23,7 @@ $(document).ready(function(){
                         if(result.isConfirmed){
                             Swal.fire({
                               icon: 'question',
-                              title: 'makasih yaa sayangkuu sdh setia sama kk, sdh sabar sama, kk sdh mau neruma kk apa adanya'
+                              title: 'makasih yaa sayangkuu sdh setia sama kk, sdh sabar sama, kk sdh mau nerima kk apa adanya'
                             }).then((result) =>{
                                 //jawab jujur
                                 if(result.isConfirmed){
@@ -47,7 +47,7 @@ $(document).ready(function(){
                                                         if(result.isConfirmed){
                                                             Swal.fire({
                                                               icon: 'question',
-                                                              title: 'sayaangkuu selalu sama kk yaaaa. sayangkuu jangan pergi dari kk yaa sayaangkuu ngga boleh sama siap siapa selain kk'
+                                                              title: 'sayaangkuu selalu sama kk yaaaa. sayangkuu jangan pergi dari kk yaa sayaangkuu ngga boleh sama siapa siapa selain kk'
                                                             }).then((result) =>{
                                                                 //jawab jujur
                                                                 if(result.isConfirmed){
@@ -81,7 +81,7 @@ $(document).ready(function(){
                                                                                                     }).then((result)=>{
                                                                                                         if(result.isConfirmed){
                                                                                                             Swal.fire({
-                                                                                                                title:'coba teken tombol biru :)'
+                                                                                                                title:'nanti kalo bisa jamnya sering dipake yaa, kk minta maaf kalo kk pulang kemaren blm sempet benerin jamnya sayangkuu :)'
                                                                                                             })
                                                                                                             $('#tombol-cari').show();
                         
